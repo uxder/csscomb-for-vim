@@ -21,18 +21,18 @@ See details at [wiki](https://github.com/miripiruni/CSScomb/wiki/Requirements).
 
 ```
 cd ~/.vim/bundle
-git clone https://github.com/miripiruni/CSScomb-for-Vim.git
+git clone https://github.com/uxder/csscomb-for-vim-alphabetized
 ```
 
 ### With Vundle
 Add this to .vimrc:
 ```
-Bundle 'git://github.com/miripiruni/CSScomb-for-Vim.git'
+Bundle 'uxder/csscomb-for-vim-alphabetized'
 ```
 
 ### Manual without plugins manager
 ```
-git clone https://github.com/miripiruni/CSScomb-for-Vim.git csscomb
+git clone https://github.com/uxder/csscomb-for-vim-alphabetized.git csscomb
 cp -r csscomb/plugin/* ~/.vim/plugin/
 ```
 
